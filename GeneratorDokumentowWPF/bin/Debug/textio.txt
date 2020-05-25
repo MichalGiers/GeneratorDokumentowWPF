@@ -1,0 +1,15 @@
+<head>
+naglowek
+</head>
+
+<header>
+</header>
+
+<body>
+dane ....  <p>  </p><p class="date"> Date:  </p><p >< img src =" [IMAGE_PATH] "/>" </p><p >< img src =" [IMAGE_PATH] "/>" </p>
+</body>
+
+<footer>
+
+</footer>
+
